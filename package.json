@@ -1,0 +1,16 @@
+{
+  "name": "hid-puppeteer",
+  "version": "1.0.0",
+  "description": "E2E tests for HID OAuth flows",
+  "homepage": "https://github.com/UN-OCHA/hid-puppeteer/",
+  "repository": "https://github.com/UN-OCHA/hid-puppeteer.git",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "UN OCHA",
+    "email": "ops@humanitarianresponse.info"
+  },
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
